@@ -26,7 +26,6 @@ The iOS weather app is a sleek and user-friendly application that provides real-
 
 ```
 CoreLocation
-Fully programmatic approach
 WeatherAPI
 Compositional Layout 
 Animations
