@@ -85,10 +85,10 @@ extension SearchViewController: UISearchResultsUpdating {
                         DispatchQueue.main.async {
                             switch result {
                             case .success(let result):
+                                print(result.location)
                                 let entries = result.forecast.forecastday
                                     resultController.models = entries
                                     resultController.searchResultsCollectionView.reloadData()
-                                
                             case .failure(let error):
                                 print(error.localizedDescription)
                             }
