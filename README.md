@@ -1,5 +1,7 @@
 # MyWeather
 
+<img src="https://user-images.githubusercontent.com/112777366/236924936-76c3ec35-24d1-40d6-b582-46250743f8dc.jpg" width="920">
+
 Test Task for Kevych Solutions 
 
 The iOS weather app is a sleek and user-friendly application that provides real-time weather information and forecasts for locations around the world. With its intuitive design and comprehensive features, it serves as a reliable companion for users who want to stay informed about current weather conditions and plan their activities accordingly.
