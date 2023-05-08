@@ -1,4 +1,4 @@
-# MyWeather
+# MyWeather(TestTask)
 
 The iOS weather app is a sleek and user-friendly application that provides real-time weather information and forecasts for locations around the world. With its intuitive design and comprehensive features, it serves as a reliable companion for users who want to stay informed about current weather conditions and plan their activities accordingly.
 
