@@ -49,8 +49,6 @@ class WeatherHeaderView: UICollectionReusableView {
         super.layoutSubviews()
         mainLabel.frame = CGRect(x: 70, y: 30, width: 500, height: 200)
         animationView.frame = CGRect(x: 50, y: 120, width: 300, height: 300)
-
-        
         
         addSubview(mainLabel)
         addSubview(animationView)

@@ -27,7 +27,7 @@ final class APICaller {
     //MARK: - Private Methods
     
     public func requestWeatherForLocation(longitude: CLLocationDegrees, latitude: CLLocationDegrees, completion: @escaping (Result<WeatherForecast, Error>) -> Void) {
-        guard let url = URL(string: "\(Constants.API.baseURL)/forecast.json?key=\(Constants.API.API_KEY)&q=\(longitude),\(latitude)&days=14") else {
+        guard let url = URL(string: "\(Constants.API.baseURL)/forecast.json?key=\(Constants.API.API_KEY)&q=\(latitude),\(longitude)&days=14") else {
             return
         }
         
